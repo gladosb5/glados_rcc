@@ -1,5 +1,5 @@
 # glados_rcc
-# ⚠ WARNING! this method will temp put u in guest mode (yes guest mode still exists its just impossible since ur not a roblox admin) ⚠
+# ⚠ WARNING! this method will put u in guest mode (yes guest mode still exists its just impossible since ur not a roblox admin) ⚠
 a cool patch for a cool thing called local_rcc (only for 2022)
 so basically i dont know how 2 do readme so uhh its going to be bland
 anyways this is how 2 use it:
